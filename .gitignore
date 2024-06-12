@@ -1,0 +1,9 @@
+/data
+/meta
+__pycache__/
+/test
+/.idea
+/demo3
+*.json
+*.png
+*.jpg
